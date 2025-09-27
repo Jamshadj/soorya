@@ -32,11 +32,11 @@ export const metadata: Metadata = {
     title: "Soorya Narayana | Video Editor & Content Creator",
     description:
       "Explore the creative works of Soorya Narayana — a passionate video editor, videographer, and storyteller with expertise in motion graphics and visual communication.",
-    url: "https://your-portfolio-domain.com", // 👉 replace with your domain
+    url: "https://soorya-narayanan.vercel.app", // 👉 replace with your domain
     siteName: "Soorya Narayana Portfolio",
     images: [
       {
-        url: "/og-image.png", // 👉 put a social preview image in /public
+        url: "https://soorya-narayanan.vercel.app/1.png", // 👉 put a social preview image in /public
         width: 1200,
         height: 630,
         alt: "Soorya Narayana Portfolio Preview",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     title: "Soorya Narayana | Video Editor & Content Creator",
     description:
       "Creative video editor and storyteller — explore my portfolio of motion graphics, photography, and brand communication.",
-    images: ["/og-image.png"],
+    images: ["https://soorya-narayanan.vercel.app/1.png"],
   },
 };
 
